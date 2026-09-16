@@ -1,1 +1,1 @@
-1.1Bug fix an improve performance. 
+1.2
